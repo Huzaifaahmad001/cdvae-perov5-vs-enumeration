@@ -1,0 +1,17 @@
+# Python and notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data and model files are NOT uploaded: the notebook downloads or creates them
+*.csv
+*.pkl
+*.pt
+*.ckpt
+*.tar.gz
+wandb/
+cdvae/
+
+# System files
+.DS_Store
+Thumbs.db
