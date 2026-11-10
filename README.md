@@ -1,6 +1,6 @@
 # Does CDVAE beat a simple loop? A fair test on the Perov-5 perovskite dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/cdvae-perov5-vs-enumeration/blob/main/CDVAE_Perov5_vs_Loop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Huzaifaahmad001/cdvae-perov5-vs-enumeration/blob/main/CDVAE_Perov5_vs_Loop.ipynb)
 
 **Short answer: no.** On Perov-5, a loop that takes about 0.01 seconds beats the generative model CDVAE, because the dataset is a *complete menu* of every possible combination and the answers are already in a table.
 
